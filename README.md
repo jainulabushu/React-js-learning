@@ -27,13 +27,30 @@ in vs code search and install Prettier - Code formatter by esbenp Prettier
 
 settings> user> formatting> formate on save> tick it
 
-on comand prompt >type> create-react-app react-app >run it >shift + fn + f10
+on comand prompt >type> create-react-apps react-app >run it >shift + fn + f10
 
 its going to install 
 *development server 
 *Webpack
 *Babel
 *and bunch of other tools
+
+npm is the default package manager for the JavaScript runtime environment Node.js.
+
+finally run>cd react-apps
+npm start
+
+
+this will open port on chrome as http://localhost:3000/
+
+drag and drop react-apps folder to vs code editor to open
+
+
+
+
+
+
+
 
 
 
