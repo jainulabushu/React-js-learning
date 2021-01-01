@@ -8,4 +8,8 @@ video course by Mosh Hamedani
  * Handle Events
  * Debug Your React Apps
  
+ React is a javascript library for building user interfaces
+ 
+ Angular is a framework
+ React is a library
  
