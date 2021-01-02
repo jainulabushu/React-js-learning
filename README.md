@@ -25,9 +25,9 @@ in vs code search for simple react snippets and install it by Burke Holland
 
 in vs code search and install Prettier - Code formatter by esbenp Prettier
 
-settings> user> formatting> formate on save> tick it
+in vs code> settings> user> formatting> formate on save> tick it
 
-on comand prompt >type> create-react-apps react-app >run it >shift + fn + f10
+on comand prompt >type> create-react-apps react-app >run it >shift + fn + f10 or enter
 
 its going to install 
 *development server 
@@ -41,10 +41,17 @@ finally run>cd react-apps
 npm start
 
 
-this will open port on chrome as http://localhost:3000/
+this will open port on chrome page as http://localhost:3000/
 
 drag and drop react-apps folder to vs code editor to open
 
+chrome> babeljs.io/repl
+
+babel> here we can type modern javascript code> babel convert that code into that browsers can understand
+
+const element = <h1>Hello World</h1>;
+
+babel convert jsx code to react js code
 
 
 
