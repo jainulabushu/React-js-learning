@@ -55,6 +55,12 @@ babel convert jsx code to react js code
 
 delete all files form src (source) and create new index.js file under src file in vs code
 
+type the below code in vs code and save it, then check browser it will open a blanck tab named http://localhost:3000/
+
+then open console by clicking ctrl+shift+i
+
+
+
 
 
 
