@@ -53,6 +53,9 @@ const element = <h1>Hello World</h1>;
 
 babel convert jsx code to react js code
 
+delete all files form src (source) and create new index.js file under src file in vs code
+
+
 
 
 
