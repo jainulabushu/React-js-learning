@@ -59,7 +59,7 @@ type the below code in vs code and save it, then check browser it will open a bl
 
 then open console by clicking ctrl+shift+i
 
-import React from 'react';  //React = object, 'react' = module, same applicable for all imports
+import React from 'react';         //React = object, 'react' = module, same applicable for all imports
 import ReactDom from 'react-dom';
 
 const element = <h1>Hello World</h1>;  //jsx expression
